@@ -6,9 +6,12 @@ ola k ase? (*u*)v
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 8947389385
 =======
+=======
+>>>>>>> 71ca285f2ba1e33aa0d576fd83c69f4c4f101576
 Donde sera la cena baile?
 >>>>>>> origin/master
 =======
