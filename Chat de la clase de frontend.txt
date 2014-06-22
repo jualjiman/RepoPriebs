@@ -1,6 +1,19 @@
-﻿Betto: hola a todos
+﻿
 Que tal compañeros, agradecemos estos conocimientos compartidos por jualjiman. Muchas gracias.
+<<<<<<< HEAD
+ola k ase? (*u*)v
+=======
 
+<<<<<<< HEAD
 
 Donde sera la cena baile?
 >>>>>>> origin/master
+=======
+46546245
+<<<<<<< HEAD
+Donde sera la cena baile?
+>>>>>>> c17433a1fcd488825ccde950191c260e58a40811
+=======
+
+>>>>>>> fd51349a8d9fdc6bc75afa3678c317ed88a2edd0
+>>>>>>> 4779d5cbece11d8e27ef4c7463648045742294ca
