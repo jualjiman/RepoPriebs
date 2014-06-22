@@ -1,6 +1,9 @@
 ﻿Betto: hola a todos
 Que tal compañeros, agradecemos estos conocimientos compartidos por jualjiman. Muchas gracias.
 
-46546245
+
 
 8947389385
+=======
+Donde sera la cena baile?
+>>>>>>> origin/master
